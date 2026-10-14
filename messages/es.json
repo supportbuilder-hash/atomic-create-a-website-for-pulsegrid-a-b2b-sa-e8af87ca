@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "features": "Características",
+    "integrations": "Integraciones",
+    "pricing": "Precios",
+    "security": "Seguridad",
+    "book_a_demo": "Reservar una demo"
+  },
+  "cta": {
+    "primary": "Comenzar prueba gratuita"
+  },
+  "footer": {
+    "tagline": "Sabe exactamente por qué los usuarios se convierten",
+    "rights": "Todos los derechos reservados."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Análisis de productos para equipos de crecimiento",
+      "titleMain": "Sabe exactamente por qué los usuarios",
+      "titleAccent": "se convierten",
+      "subtitle": "Pulsegrid convierte cada clic, registro y evento de abandono en una historia clara sobre tu embudo, para que tu equipo de crecimiento dedique menos tiempo a adivinar y más tiempo a enviar correcciones que funcionen.",
+      "primaryCta": "Reservar una demo",
+      "secondaryCta": "Comenzar prueba gratuita",
+      "dashboardTitle": "Embudo de registro · Últimos 30 días",
+      "dashboardLive": "En vivo",
+      "funnel": [
+        {
+          "label": "Visited pricing page",
+          "value": 100
+        },
+        {
+          "label": "Started signup",
+          "value": 64
+        },
+        {
+          "label": "Created account",
+          "value": 47
+        },
+        {
+          "label": "Completed onboarding",
+          "value": 33
+        },
+        {
+          "label": "Upgraded to paid",
+          "value": 18
+        }
+      ],
+      "dashboardStats": [
+        {
+          "value": "18%",
+          "label": "Conversion rate"
+        },
+        {
+          "value": "+12%",
+          "label": "Vs last month"
+        },
+        {
+          "value": "2.4s",
+          "label": "Event latency"
+        }
+      ]
+    },
+    "logos": {
+      "title": "Creado para equipos de crecimiento en empresas como estas",
+      "items": [
+        "Northwind",
+        "Fieldstone",
+        "Lumen Cloud",
+        "Vaultwire",
+        "Brightline",
+        "Marrow Labs"
+      ]
+    },
+    "features": {
+      "eyebrow": "Plataforma",
+      "title": "Todo lo que tu equipo de crecimiento necesita para encontrar la fuga",
+      "subtitle": "Pulsegrid conecta el momento en que un usuario se va con la razón por la que, en todo el ciclo de vida desde la primera visita hasta la renovación.",
+      "items": [
+        {
+          "title": "See conversion drop-off the moment it happens",
+          "description": "Track every step from first visit to activation with funnels that update live, so you catch a broken checkout flow in minutes, not at the end of the quarter.",
+          "statValue": "2.4s",
+          "statLabel": "Median event-to-dashboard latency"
+        },
+        {
+          "title": "Understand which cohorts actually stick",
+          "description": "Segment users by signup week, plan or acquisition channel and compare retention curves side by side to see what is really driving long-term usage.",
+          "statValue": "30+",
+          "statLabel": "Cohort dimensions out of the box"
+        },
+        {
+          "title": "Let Pulsegrid explain the why for you",
+          "description": "Our insight engine scans your funnels and cohorts overnight and surfaces the changes most likely to move your activation rate, written in plain English.",
+          "statValue": "3",
+          "statLabel": "Prioritized insights delivered daily"
+        }
+      ]
+    },
+    "integrations": {
+      "eyebrow": "Integraciones",
+      "title": "Conéctate con el stack que ya utilizas",
+      "subtitle": "Pulsegrid funciona junto a las herramientas que tus equipos de crecimiento, ingresos y soporte utilizan todos los días, sin necesidad de migración.",
+      "items": [
+        {
+          "name": "Segment",
+          "description": "Stream every tracked event straight into Pulsegrid, no extra tagging required."
+        },
+        {
+          "name": "Stripe",
+          "description": "Tie revenue and subscription changes directly to the funnel steps that drove them."
+        },
+        {
+          "name": "HubSpot",
+          "description": "Sync lifecycle stages so marketing and product share one source of truth."
+        },
+        {
+          "name": "Slack",
+          "description": "Get a daily insight digest and funnel alerts delivered to the channels your team already watches."
+        },
+        {
+          "name": "Zapier",
+          "description": "Connect Pulsegrid events to thousands of other tools without writing code."
+        },
+        {
+          "name": "Salesforce",
+          "description": "Push product usage signals into the account records your sales team already lives in."
+        }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Precios",
+      "title": "Planes que escalan con tu embudo",
+      "subtitle": "Comienza con embudos en tiempo real, añade cohortes e insights de IA a medida que tu equipo de crecimiento crece.",
+      "monthlyLabel": "Mensual",
+      "annualLabel": "Anual",
+      "savingsBadge": "Ahorra 20%",
+      "perMonth": "/mes",
+      "plans": [
+        {
+          "name": "Starter",
+          "description": "For small teams validating their first funnels.",
+          "monthlyPrice": "$49",
+          "annualPrice": "$39",
+          "features": [
+            "Up to 25,000 tracked events/mo",
+            "Real-time funnels",
+            "7-day data retention",
+            "Email support"
+          ],
+          "ctaLabel": "Start free trial",
+          "highlighted": false
+        },
+        {
+          "name": "Growth",
+          "description": "For teams running cohort analysis and AI insights every week.",
+          "monthlyPrice": "$149",
+          "annualPrice": "$119",
+          "features": [
+            "Up to 250,000 tracked events/mo",
+            "Cohort retention analysis",
+            "AI insights digest",
+            "12-month data retention",
+            "Priority chat support"
+          ],
+          "ctaLabel": "Start free trial",
+          "highlighted": true,
+          "badge": "Most popular"
+        },
+        {
+          "name": "Enterprise",
+          "description": "For organizations with compliance and scale requirements.",
+          "monthlyPrice": "Custom",
+          "annualPrice": "Custom",
+          "features": [
+            "Unlimited tracked events",
+            "Dedicated success manager",
+            "SOC 2 Type II and SSO",
+            "Custom data retention",
+            "Onboarding and migration support"
+          ],
+          "ctaLabel": "Contact sales",
+          "highlighted": false
+        }
+      ]
+    },
+    "security": {
+      "eyebrow": "Seguridad y cumplimiento",
+      "title": "Creado para pasar tu revisión de seguridad",
+      "subtitle": "Pulsegrid es auditado independientemente y construido alrededor de los requisitos de cumplimiento que tus equipos de crecimiento y datos ya responden.",
+      "badges": [
+        "SOC 2 Type II",
+        "GDPR compliant"
+      ],
+      "items": [
+        {
+          "title": "SOC 2 Type II audited",
+          "description": "Annual third-party audits cover security, availability and confidentiality controls."
+        },
+        {
+          "title": "GDPR compliant",
+          "description": "Data processing agreements and user data deletion tools are built into every workspace."
+        },
+        {
+          "title": "Encryption everywhere",
+          "description": "Data is encrypted at rest and in transit using industry-standard protocols."
+        },
+        {
+          "title": "Role-based access control",
+          "description": "Grant teammates exactly the level of access their role requires, nothing more."
+        },
+        {
+          "title": "Regional data residency",
+          "description": "Choose EU or US hosting to meet your organization's data residency requirements."
+        },
+        {
+          "title": "Full audit logs",
+          "description": "Every workspace change, export and permission update is recorded and reviewable."
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Pulsegrid reemplazó cuatro dashboards separados para nosotros. Encontramos una caída en el checkout en nuestra primera semana que había estado costándonos registros silenciosamente durante meses.",
+      "name": "Dana Okafor",
+      "role": "Head of Growth, Northwind",
+      "initials": "DO"
+    },
+    "contact": {
+      "eyebrow": "Reservar una demo",
+      "title": "Ve Pulsegrid en tu propio embudo",
+      "subtitle": "Cuéntanos un poco sobre tu equipo y te guiaremos a través de Pulsegrid con un conjunto de datos como el tuyo.",
+      "nameLabel": "Nombre completo",
+      "workEmailLabel": "Correo de trabajo",
+      "companyLabel": "Empresa",
+      "teamSizeLabel": "Tamaño del equipo",
+      "teamSizePlaceholder": "Selecciona tamaño del equipo",
+      "submitLabel": "Solicitar demostración",
+      "successTitle": "Gracias, nos pondremos en contacto",
+      "successMessage": "Un especialista en crecimiento de Pulsegrid se comunicará dentro de un día hábil para programar tu demostración.",
+      "emailLabel": "Dirección de correo",
+      "expectItems": [
+        "A 30-minute walkthrough tailored to your funnel",
+        "A look at cohort retention using your own definitions",
+        "Clear next steps and pricing for your team size"
+      ],
+      "teamSizeOptions": [
+        "1-10",
+        "11-50",
+        "51-200",
+        "201-1000",
+        "1000+"
+      ]
+    }
+  }
+}

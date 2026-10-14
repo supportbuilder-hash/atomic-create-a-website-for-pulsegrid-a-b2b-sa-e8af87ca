@@ -1,0 +1,44 @@
+{
+  "brand": {
+    "name": "Pulsegrid",
+    "tagline": "Know exactly why users convert",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "features",
+      "href": "#features"
+    },
+    {
+      "key": "integrations",
+      "href": "#integrations"
+    },
+    {
+      "key": "pricing",
+      "href": "#pricing"
+    },
+    {
+      "key": "security",
+      "href": "#security"
+    },
+    {
+      "key": "book_a_demo",
+      "href": "#contact"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "#pricing"
+  },
+  "footerColumns": [],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 5
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}
